@@ -6,4 +6,4 @@ RUN \
  apt-get install -y byobu
 
 # Run it by default
-CMD byobu
+CMD byobu new -n main
