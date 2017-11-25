@@ -1,6 +1,6 @@
 # Ubuntu+Byobu
- 
- This docker image contains ubuntu distro + byobu installed. It allows for easier interactive sessions using docker.
+This git repo contains the dockerfile to build the docker image available in cdaudt/ubuntu-byobu.
+It is composed of ubuntu:latest + byobu package installed.
  
 ## How to use it
  
